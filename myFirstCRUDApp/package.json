@@ -1,0 +1,14 @@
+{
+  "name": "myfirstcrudapp",
+  "version": "1.0.0",
+  "description": "Todo List",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saviour Dagadu",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.10.0"
+  }
+}
